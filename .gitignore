@@ -10,7 +10,7 @@
 
 # production
 /build
-
+/Adobe
 # misc
 .DS_Store
 .env.local
