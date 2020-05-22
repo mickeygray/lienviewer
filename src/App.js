@@ -19,7 +19,7 @@ const App = () => {
       lien call us today.
      </h5>
      <img src={arrow} />
-     <h5 className='lead text-danger text-center'>1-800-000-0000</h5>
+     <h5 className='lead text-danger text-center'>1-213-513-5543</h5>
     </div>
     <div>
      <img src={nftl} style={{ width: "566px", height: "750px" }} />
