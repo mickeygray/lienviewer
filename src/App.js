@@ -15,8 +15,8 @@ const App = () => {
      <br />
      <h5>
       This is a Notice of Federal Tax Lien. If you have debt to the IRS, you may
-      recieved one of these by mail. If you are unsure about the status of your
-      lien call us today.
+      have recieved one of these by mail. If you are unsure about the status of
+      your lien call us today.
      </h5>
      <img src={arrow} />
      <h5 className='lead text-danger text-center'>1-213-513-5543</h5>
